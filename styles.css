@@ -72,6 +72,11 @@ body {
     margin-right: -4px;
 }
 
+.bannerCategorias li div img {
+    width: 460;
+    height: 375;
+}
+
 .footer {
     background: var(--color-green);
     color: #fff;
